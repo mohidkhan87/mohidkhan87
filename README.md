@@ -62,4 +62,7 @@ I would love to work in a challenging environment where I can reveal and prove m
 <a href="https://www.linkedin.com/in/mohid-khan-317065170/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidkhan87&hide_border=true&layout=compact" align="center" /></div>  
