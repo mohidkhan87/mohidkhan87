@@ -3,7 +3,8 @@
 
 I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. Strong desire to learn with a profound ability to work efficiently. I’m a confident person who knows how to work in a drastic condition. <br>I really enjoy to automate things 😃 <br>
 
-- 🔭 Level 2 Seller on FIVERR 🔥  
+- 🔭 Level 2 Seller on <a href="https://www.fiverr.com/mohidkhan87" target="_blank"></a>FIVERR 🔥  
+
 
 - 🌱 I’m currently learning nodejs
   
