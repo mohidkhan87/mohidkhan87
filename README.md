@@ -1,12 +1,12 @@
 
-### <div align="center">I'm Mohid, a full-time full-stack freelance developer 👨‍💻 working remotely as Senior Software Engineer.</div>  
+### <div align="center">I'm Mohid, a full-time full-stack freelance developer 👨‍💻</div> <br />
 
-I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. Strong desire to learn with a profound ability to work efficiently. I’m a confident person who knows how to work in a drastic condition. <br>I really enjoy to automate things 😃 <br>
+I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. I’m a confident person who knows how to work in a drastic condition. <br> <br>
 
-- 🔭 Level 2 Seller on <a href="https://www.fiverr.com/mohidkhan87" target="_blank">FIVERR</a> 🔥  
+- 🔭 Remotely working on <a href="https://www.fiverr.com/mohidkhan87" target="_blank">Fiverr</a> and <a href="https://www.upwork.com/freelancers/mohidkhan3" target="_blank">Upwork</a> 🔥  
 
 
-- 🌱 I’m currently learning nodejs
+- 🌱 I really enjoy to automate things 😃
   
 
 - ❓ Ask me about anything related to frontend development
@@ -19,35 +19,19 @@ I would love to work in a challenging environment where I can reveal and prove m
 
 
 ## My Skill Set  
-<table style="width:100%;">
-<tr>
-<td valign="top" width="50%">
-
-### Frontend  
-<div align="center">
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-    <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-</div>
-</td>
-<td valign="top" width="50%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-</td>
-</tr>
-</table>
+### Front end languages:
+- React.js | Next.js | Context API | Redux 
+- Vue.js | Nuxt.js | Vuex
+### Back end languages:
+- Java | Spring Boot
+- Core PHP | Laravel
+- Node | Express
+### Databases:
+- MySQL | MongoDB
+### UI Libraries:
+- Material UI | Styled-Components
+- Vuetify | BootstrapVue
+- TailwindCSS
 <br/>  
 
 ## Connect with me  
