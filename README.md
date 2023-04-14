@@ -19,16 +19,19 @@ I would love to work in a challenging environment where I can reveal and prove m
 
 
 ## My Skill Set  
-### Front end languages:
+**Front end languages**
 - React.js | Next.js | Context API | Redux 
 - Vue.js | Nuxt.js | Vuex
-### Back end languages:
+
+**Back end languages**
 - Java | Spring Boot
 - Core PHP | Laravel
 - Node | Express
-### Databases:
+
+**Databases**
 - MySQL | MongoDB
-### UI Libraries:
+
+**UI Libraries**
 - Material UI | Styled-Components
 - Vuetify | BootstrapVue
 - TailwindCSS
