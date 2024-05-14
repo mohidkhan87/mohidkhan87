@@ -3,8 +3,6 @@
 
 I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. I’m a confident person who knows how to work in a drastic condition. <br> <br>
 
-- 🔭 Remotely working on <a href="https://www.fiverr.com/mohidkhan87" target="_blank">Fiverr</a> and <a href="https://www.upwork.com/freelancers/mohidkhan3" target="_blank">Upwork</a> 🔥  
-
 
 - 🌱 I really enjoy to automate things 😃
   
@@ -20,16 +18,15 @@ I would love to work in a challenging environment where I can reveal and prove m
 
 ## My Skill Set  
 **Front end languages**
-- React.js | Next.js | Context API | Redux 
-- Vue.js | Nuxt.js | Vuex
+- React.js | Next.js
+- Vue.js | Nuxt.js
 
 **Back end languages**
-- Java | Spring Boot
 - Core PHP | Laravel
-- Node | Express
+- Node
 
 **Databases**
-- MySQL | MongoDB
+- MySQL
 
 **UI Libraries**
 - Material UI | Styled-Components
