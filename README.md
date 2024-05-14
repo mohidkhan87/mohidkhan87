@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Mohid, a full-time full-stack freelance developer 👨‍💻</div> <br />
+### <div align="center">I'm Mohid, a full-time software engineer 👨‍💻</div> <br />
 
 I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. I’m a confident person who knows how to work in a drastic condition. <br> <br>
 
