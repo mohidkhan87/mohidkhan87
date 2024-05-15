@@ -16,22 +16,22 @@ I would love to work in a challenging environment where I can reveal and prove m
 <br/>  
 
 
-## My Skill Set  
-**Front end languages**
-- React.js | Next.js
-- Vue.js | Nuxt.js
+## About Me
+I am a highly skilled and experienced software engineer with more than 5 years of professional experience in the industry. Throughout my career, I have been involved in the development of a wide variety of software projects, ranging from complex enterprise systems to simple web applications. I have worked on a wide variety of projects belonging to following genres:
 
-**Back end languages**
-- Core PHP | Laravel
-- Node
+- CRM (Customer Relationship Management)
+- Time Management Applications.
+- PMS (Property Management System)
+- Fintech
+- E-commerce
+- and many more
 
-**Databases**
-- MySQL
+I have a strong background in a wide range of programming languages and technologies. Some of them are as follows:
+JavaScript, TypeScript, Vue.js, Nuxt.js, React.js, Next.js, Jest, Vue Test Utils, Chai, Postman, MySQL, jQuery, Git, Laravel.
 
-**UI Libraries**
-- Material UI | Styled-Components
-- Vuetify | BootstrapVue
-- TailwindCSS
+I am also a highly organised and detail-oriented individual, with a keen ability to manage complex projects and deliver high-quality results. I consider myself a good communicator as I have lead/managed lot of projects in my career and have delivered them to there utmost satisfaction.
+
+In my leisure time I like to get familiar with new and emerging technologies.
 <br/>  
 
 ## Connect with me  
